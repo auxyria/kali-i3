@@ -1,0 +1,13 @@
+[user]
+  name = Antonette Caldwell
+  email = antonettecaldwell@gmail.com
+
+[github]
+  user = auxyria
+
+[core]
+  excludesfile = ~/.gitignore_global
+  editor = nano
+  filemode = false
+  trustctime = false
+    autocrlf = input
